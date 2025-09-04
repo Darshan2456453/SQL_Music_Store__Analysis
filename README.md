@@ -1,7 +1,7 @@
 # 🎵 SQL Music Store Analysis  
 
 This project contains SQL queries written on the **Music Store (Chinook) sample database**.  
-The queries are divided into three levels: Easy, Moderate, and Advanced.  
+
 
 ---
 
